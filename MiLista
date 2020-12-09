@@ -20,9 +20,24 @@ https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hlow.m3u8?Policy=eyJ
 https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hwifi.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aHdpZmkubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTkzLjE0Ny4xNzMuMTQ2LzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA3NjIxMTE3fX19XX0_&Signature=LP4eooOQnvQydDLec577He1nqDfLdMEFkaXPl0SgAT~RUk-dOqHZ5-ULX7fPxitSent-UtZWBVc02J7CAYYTbwfAq1nOnMdIOWRM4YF59CrOvdOtMcgw5LRQ-uUyulh~jKQIOZOU6BWZHddzbrZvdLlFXVWq96kKXwKQkpYdbQq4qQqxYXxBIGo~oE3X4ym1H5JN03iWafwR1H12~vYOu-AnLZ-4dCQGa4D61gNHnPBektUmT7-gFPqP3Kc-FfYgc5eRZHtR7js~Zc~2zZjGJBHrdzydEdp4pckEJsO4XL77LbH0uHR4Ub7JH3wtTq4bLPewXzWZJUCPIWbkitpmqg__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga
+
+https://cdn.dailysport.cloud/20/20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" , Movistar La Liga 1
+
+https://cdn.dailysport.cloud/21/21.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones
 
 https://cdn.dailysportlist.xyz/1/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op2
+
+https://cdn.dailysport.cloud/1/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1
@@ -30,14 +45,36 @@ https://cdn.dailysportlist.xyz/1/1.m3u8
 https://cdn.dailysportlist.xyz/2/2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1 Op2
+
+https://cdn.dailysport.cloud/3/3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1 Op3
+
+https://cdn.dailysport.cloud/2/2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" , Movistar Liga de Campeones 2
 
 https://cdn.dailysportlist.xyz/3/3.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" , Movistar Liga de Campeones 2 Op2
+
+https://cdn.dailysport.cloud/4/4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" , Movistar Liga de Campeones 3
 
 https://cdn.dailysportlist.xyz/4/4.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" , Movistar Liga de Campeones 3 Op2
+
+https://cdn.dailysport.cloud/4/4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" , Movistar Liga de Campeones 4
