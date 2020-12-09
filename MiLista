@@ -1,25 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/2c/c8/742cc8ed37e7144c4ba9e2f251111b4e.png" , GOL TV HD
-
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hhigh.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGhpZ2gubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiNzcuMjMxLjIzOC4xNDEvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDc1OTUwMjR9fX1dfQ__&Signature=iP8NvPDwbrOdPzcWZ~rWVLOob8yqCCuu01HfNMg0MOg-w9K6EXziVAvFRBBh86gRrfHOHOD1q9YodXS3XCDoxascGBa1~1-0qcvP9geR-qdJerXUFb-TDRWJh1g4wQU4d28tq10oG1UfQyKLY75liUN6Dk21Skr7ulWhPSAP7Wme9gVr8ILOt8a5GVSW9OG1TC8NvGeURoA0uhJ46p14XMQ0f4M5wfwoZKNYVOlK34aGUxPa5w3Sttn8kB6yUyaxXkvjS8MX0bvnSpehmn6tLe20Iw1IfnaiSHFY60hla5mhTBbapqC3okkgVS2y5CUBSsG7gFYPW~V~WYF0WD1Tdg__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/2c/c8/742cc8ed37e7144c4ba9e2f251111b4e.png" , GOL TV HD Op2
-
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hmed.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aG1lZC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiI3Ny4yMzEuMjM4LjE0MS8zMiJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNzU5NTY3Nn19fV19&Signature=GWr3R3SlLPjR8ASkNhb9fVpaeO-5MCM4NIXV5IGzonfV~MZ15pqOR0VF74BvQ-dS11OuuXK8V~5JeFRh73sdAPtgbguqU1rMr8rxtZCuTPWY9cAdMXj09kadpsP6oNw33993HBJzpQ1HbUnEIl0y39yZwMTEfBJcc0ZOZjH9P3NmfjCq8h4UO3i9Phhuprh7zh~EOl-45y~FOEz1yz6cFVd3PKa8VpH5FUthvOcQ5xiZGNU~Z5MQ7TvxJdBzWIbkCrgmu470TPB-QQfdx6-zjbIf3ujOxM1eGSYqwC1AK3AviCkmOLD~hpM6PG5R6StZkwk8AF7zZbE541UxgBs2Lw__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/2c/c8/742cc8ed37e7144c4ba9e2f251111b4e.png" , GOL TV HD Op3
-
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hlow.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aGxvdy5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIxOTMuMTQ3LjE3My4xNDYvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDc2MjExMTd9fX1dfQ__&Signature=RPKJPNq~KlDf8SlxryjxIeu~26b8BVbJM7Md~Pz61354pvbws2F0rU-bF1QdbKzGhxd-Rt3lRqWDt~ghBKT6x-3WFvuxlP84nkSHxlQDgFyMHtzSymkXgbrS4HKencyfv2ERf1mlitAsx5cGu7pHZHFX~oBxY1rZbCTzLALv6n~MQFwsaCmf41oAYnRUbqva3WeFi1MnxHK~wHjs9zwtD49pUHh~9QStQLQqamv-NmkcuqplAwLOJlqBlGdWiz-MKrTM-Ku~bKC4dDg2CSrsJpGyE8IaAX5mz2-Py8lY3-SOfM0IzijOVRVQcqECsqFscS0d31P~24EylwEfbB7Rhw__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/74/2c/c8/742cc8ed37e7144c4ba9e2f251111b4e.png" , GOL TV HD Op4
-
-https://d14yn9755o946w.cloudfront.net/Gol_24h/gol_24h/gol_24hwifi.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTR5bjk3NTVvOTQ2dy5jbG91ZGZyb250Lm5ldC9Hb2xfMjRoL2dvbF8yNGgvZ29sXzI0aHdpZmkubTN1OCIsIkNvbmRpdGlvbiI6eyJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMTkzLjE0Ny4xNzMuMTQ2LzMyIn0sIkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjA3NjIxMTE3fX19XX0_&Signature=LP4eooOQnvQydDLec577He1nqDfLdMEFkaXPl0SgAT~RUk-dOqHZ5-ULX7fPxitSent-UtZWBVc02J7CAYYTbwfAq1nOnMdIOWRM4YF59CrOvdOtMcgw5LRQ-uUyulh~jKQIOZOU6BWZHddzbrZvdLlFXVWq96kKXwKQkpYdbQq4qQqxYXxBIGo~oE3X4ym1H5JN03iWafwR1H12~vYOu-AnLZ-4dCQGa4D61gNHnPBektUmT7-gFPqP3Kc-FfYgc5eRZHtR7js~Zc~2zZjGJBHrdzydEdp4pckEJsO4XL77LbH0uHR4Ub7JH3wtTq4bLPewXzWZJUCPIWbkitpmqg__&Key-Pair-Id=APKAIAZ5PGRVVQBQUQTA
-
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga
 
 https://cdn.dailysport.cloud/20/20.m3u8
@@ -65,13 +45,7 @@ https://cdn.dailysport.cloud/3/3.m3u8
 https://cdn.dailysportlist.xyz/4/4.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" , Movistar Liga de Campeones 3 Op2
-
-https://cdn.dailysport.cloud/4/4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" , Movistar Liga de Campeones 3 Op3
 
 https://cdn.dailysport.cloud/4/4.m3u8
 
@@ -79,3 +53,8 @@ https://cdn.dailysport.cloud/4/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" , Movistar Liga de Campeones 4
 
 https://cdn.dailysportlist.xyz/5/5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" , Movistar Liga de Campeones 4 Op2
+
+https://cdn.dailysport.cloud/5/5.m3u8
