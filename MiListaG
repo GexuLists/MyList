@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga
+
+https://storage.googleapis.com/dailycl4/20/20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" , Movistar La Liga 1
+
+https://storage.googleapis.com/dailycl4/21/21.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones
+
+https://storage.googleapis.com/dailycl4/1/1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1
+
+https://storage.googleapis.com/dailycl4/2/2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" , Movistar Liga de Campeones 2
+
+https://storage.googleapis.com/dailycl4/3/3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" , Movistar Liga de Campeones 3
+
+https://storage.googleapis.com/dailycl4/4/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" , Movistar Liga de Campeones 4
+
+https://storage.googleapis.com/dailycl4/5/5.m3u8
