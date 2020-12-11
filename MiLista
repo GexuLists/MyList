@@ -121,3 +121,8 @@ https://cdn.dailysportlist.xyz/5/5.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" , Movistar Formula 1
 
 https://storage.googleapis.com/dailycl4/10/10.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1000px-NBC_Universo_logo.svg.png" , Canal Universo (Premier Latino)
+
+https://storage.googleapis.com/dailycl4/epl2/2.m3u8
