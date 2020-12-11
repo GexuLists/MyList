@@ -12,10 +12,15 @@ https://storage.googleapis.com/dailycl4/20/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga Op2
 
-https://cdn.dailysport.cloud/20/20.m3u8
+https://storage.googleapis.com/dailycl4/1/1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga Op3
+
+https://cdn.dailysport.cloud/20/20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga Op4
 
 https://cdn.dailysportlist.xyz/20/20.m3u8
 
