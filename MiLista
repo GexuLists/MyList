@@ -80,6 +80,11 @@ https://storage.googleapis.com/dailycl4/10/10.m3u8
 https://storage.googleapis.com/dailycl4/epl2/2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/245px-NBCUniversal_Peacock_Logo.svg.png" , Canal Peacock (Premier Ingles)
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/ep11/1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BEINE-logo.png" , beinSport Ñ
 
 https://storage.googleapis.com/dailycl4/epl4/4.m3u8
