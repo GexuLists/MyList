@@ -10,6 +10,11 @@ https://storage.googleapis.com/dailycl4/21/21.m3u8
 https://dailycl4.s3-eu-west-1.amazonaws.com/4/4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" , DAZN Op3
+
+https://storage.googleapis.com/dailycl4/4/4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , #VAMOS
 
 https://storage.googleapis.com/dailycl4/15/15.m3u8
