@@ -5,6 +5,16 @@
 https://storage.googleapis.com/dailycl4/21/21.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" , DAZN Op2
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/4/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , #VAMOS
+
+https://storage.googleapis.com/dailycl4/15/15.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga
 
 https://storage.googleapis.com/dailycl4/20/20.m3u8
@@ -45,6 +55,11 @@ https://cdn.dailysport.cloud/21/21.m3u8
 https://cdn.dailysportlist.xyz/21/21.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" , Movistar La Liga 2
+
+https://storage.googleapis.com/dailycl4/7/7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones
 
 https://storage.googleapis.com/dailycl4/1/1.m3u8
@@ -52,9 +67,14 @@ https://storage.googleapis.com/dailycl4/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op2
 
-https://cdn.dailysport.cloud/1/1.m3u8
+https://storage.googleapis.com/dailycl4/8/8.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op3
+
+https://cdn.dailysport.cloud/1/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op4
 
 https://cdn.dailysportlist.xyz/1/1.m3u8
 
