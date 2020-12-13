@@ -30,6 +30,11 @@ https://storage.googleapis.com/dailycl4/20/20.m3u8
 https://storage.googleapis.com/dailycl4/1/1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga Op3
+
+https://cdntest.dailysport.site/live/1/chunks.m3u8?nimblesessionid=2310
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" , Movistar La Liga 1
 
 https://storage.googleapis.com/dailycl4/21/21.m3u8
@@ -53,6 +58,11 @@ https://storage.googleapis.com/dailycl4/1/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op2
 
 https://storage.googleapis.com/dailycl4/8/8.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op3
+
+https://cdntest.dailysport.site/live/8/chunks.m3u8?nimblesessionid=2737
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1
@@ -85,6 +95,11 @@ https://storage.googleapis.com/dailycl4/10/10.m3u8
 https://storage.googleapis.com/dailycl4/epl2/2.m3u8
 
 
+#EXTINF:-1 , (Premier Latino) Op2
+
+https://storage.googleapis.com/dailycl4/epl2/2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/245px-NBCUniversal_Peacock_Logo.svg.png" , Canal Peacock (Premier Ingles)
 
 https://dailycl4.s3-eu-west-1.amazonaws.com/ep11/1.m3u8
@@ -97,3 +112,8 @@ https://storage.googleapis.com/dailycl4/epl4/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.futbolmedya.com/wp-content/uploads/2019/05/8AF7DF6A-6391-4D87-B3A8-0A544809B51A.png" , beinSportHD (ING)
 
 https://storage.googleapis.com/dailycl4/epl3/3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" , Movistar Deportes
+
+https://storage.googleapis.com/dailycl4/16/16.m3u8
