@@ -15,9 +15,19 @@ https://dailycl4.s3-eu-west-1.amazonaws.com/4/4.m3u8
 https://storage.googleapis.com/dailycl4/4/4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.optasports.com/media/1728/dazn-logo-resized.png" , DAZN Op4
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/4/4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , #VAMOS
 
 https://storage.googleapis.com/dailycl4/15/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" , #VAMOS Op2
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/15/15.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga
@@ -35,6 +45,11 @@ https://storage.googleapis.com/dailycl4/1/1.m3u8
 https://cdntest.dailysport.site/live/1/chunks.m3u8?nimblesessionid=2310
 
 
+EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" , Movistar La Liga Op4
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/1/1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" , Movistar La Liga 1
 
 https://storage.googleapis.com/dailycl4/21/21.m3u8
@@ -50,6 +65,11 @@ https://storage.googleapis.com/dailycl4/7/7.m3u8
 https://storage.googleapis.com/dailycl4/7/7.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" , Movistar La Liga 2 Op2
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/7/7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones
 
 https://storage.googleapis.com/dailycl4/1/1.m3u8
@@ -63,6 +83,11 @@ https://storage.googleapis.com/dailycl4/8/8.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op3
 
 https://cdntest.dailysport.site/live/8/chunks.m3u8?nimblesessionid=2737
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" , Movistar Liga de Campeones Op4
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/8/8.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" , Movistar Liga de Campeones 1
@@ -90,9 +115,14 @@ https://storage.googleapis.com/dailycl4/5/5.m3u8
 https://storage.googleapis.com/dailycl4/10/10.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" , Movistar Formula 1 Op2
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/10c/10.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1000px-NBC_Universo_logo.svg.png" , Canal Universo (Premier Latino)
 
-https://storage.googleapis.com/dailycl4/epl2/2.m3u8
+https://dailycl4.s3-eu-west-1.amazonaws.com/c4/4.m3u8
 
 
 #EXTINF:-1 , (Premier Latino) Op2
@@ -117,3 +147,8 @@ https://storage.googleapis.com/dailycl4/epl3/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" , Movistar Deportes
 
 https://storage.googleapis.com/dailycl4/16/16.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" , Movistar Deportes Op2
+
+https://dailycl4.s3-eu-west-1.amazonaws.com/16/16.m3u8
